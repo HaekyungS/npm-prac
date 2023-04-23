@@ -1,0 +1,28 @@
+{
+  "name": "npm-prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commander_prac.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaekyungS/npm-prac.git"
+  },
+  "keywords": [
+    "npm",
+    "npm연습",
+    "commander"
+  ],
+  "author": "Haekyung Seong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaekyungS/npm-prac/issues"
+  },
+  "homepage": "https://github.com/HaekyungS/npm-prac#readme",
+  "dependencies": {
+    "commander": "^10.0.1"
+  }
+}
