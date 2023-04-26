@@ -24,5 +24,8 @@
   "homepage": "https://github.com/HaekyungS/npm-prac#readme",
   "dependencies": {
     "commander": "^10.0.1"
+  },
+  "bin":{
+    "cli":"./230423/commander_prac.js"
   }
 }
